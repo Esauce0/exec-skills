@@ -1,0 +1,18 @@
+{
+  "name": "exec-communication",
+  "version": "0.1.0",
+  "description": "Communicate at the right altitude with ownership and judgment: executive updates, recommendations, escalations, decision memos, board material, and presence in consequential meetings.",
+  "author": {
+    "name": "Eston Esau",
+    "email": "eston.esau@gmail.com"
+  },
+  "keywords": [
+    "executive-development",
+    "executive-communication",
+    "board",
+    "escalation",
+    "meetings",
+    "presence"
+  ],
+  "license": "UNLICENSED"
+}

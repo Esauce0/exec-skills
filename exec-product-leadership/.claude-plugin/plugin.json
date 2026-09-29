@@ -1,0 +1,18 @@
+{
+  "name": "exec-product-leadership",
+  "version": "0.1.0",
+  "description": "Lead product capability at organizational level, and operate as the credible AI product executive: strategic context, empowered teams, AI economics, evaluation as governance, and AI risk.",
+  "author": {
+    "name": "Eston Esau",
+    "email": "eston.esau@gmail.com"
+  },
+  "keywords": [
+    "executive-development",
+    "product-leadership",
+    "ai-strategy",
+    "empowered-teams",
+    "ai-evals",
+    "ai-economics"
+  ],
+  "license": "UNLICENSED"
+}

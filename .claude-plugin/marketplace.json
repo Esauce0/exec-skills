@@ -1,0 +1,54 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "exec-skills",
+  "version": "0.1.0",
+  "description": "An executive-development operating system for product and AI leaders. 20 skills and 16 workflows across 7 plugins that reason across executive doctrine, a private Career Brain, and your Product Brains to diagnose where you stand and what to do next.",
+  "owner": {
+    "name": "Eston Esau",
+    "email": "eston.esau@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "exec-core",
+      "description": "Foundation for every exec plugin: evidence discipline, the executive prose standard, executive posture diagnosis, the Career Brain protocol, and the source doctrine library. Includes /coach-me, /capture, and /setup-career-brain.",
+      "source": "./exec-core",
+      "category": "executive-development"
+    },
+    {
+      "name": "exec-observer",
+      "description": "Maintain an honest, longitudinal model of your organizational position: scope, sponsorship, visibility, reputation, readiness, and trajectory. Weekly, monthly, and career-length reviews.",
+      "source": "./exec-observer",
+      "category": "executive-development"
+    },
+    {
+      "name": "exec-trajectory",
+      "description": "Close the gap to the next level and grow scope legitimately: level models, readiness and promotion evidence, scope expansion, and enterprise thinking.",
+      "source": "./exec-trajectory",
+      "category": "executive-development"
+    },
+    {
+      "name": "exec-influence",
+      "description": "Build the trust, sponsorship, and influence larger scope requires: executive trust, managing up, sponsorship, and organizational politics with an ethical line.",
+      "source": "./exec-influence",
+      "category": "executive-development"
+    },
+    {
+      "name": "exec-communication",
+      "description": "Communicate at the right altitude with ownership and judgment: executive updates, recommendations, escalations, decision memos, board material, and presence in consequential meetings.",
+      "source": "./exec-communication",
+      "category": "executive-development"
+    },
+    {
+      "name": "exec-leadership",
+      "description": "Multiply output through others and systems: managerial leverage, delegation, operating cadence, time allocation, decision rights, and decision quality.",
+      "source": "./exec-leadership",
+      "category": "executive-development"
+    },
+    {
+      "name": "exec-product-leadership",
+      "description": "Lead product capability at organizational level, and operate as the credible AI product executive: strategic context, empowered teams, AI economics, evaluation as governance, and AI risk.",
+      "source": "./exec-product-leadership",
+      "category": "executive-development"
+    }
+  ]
+}

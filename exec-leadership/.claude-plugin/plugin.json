@@ -1,0 +1,18 @@
+{
+  "name": "exec-leadership",
+  "version": "0.1.0",
+  "description": "Multiply output through others and systems: managerial leverage, delegation, operating cadence, time allocation, decision rights, and decision quality.",
+  "author": {
+    "name": "Eston Esau",
+    "email": "eston.esau@gmail.com"
+  },
+  "keywords": [
+    "executive-development",
+    "leverage",
+    "delegation",
+    "decision-making",
+    "operating-cadence",
+    "time-management"
+  ],
+  "license": "UNLICENSED"
+}

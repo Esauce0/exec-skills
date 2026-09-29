@@ -1,0 +1,4 @@
+# Career Brain: private. If you use git here, use no remote or a private one only you can access.
+.DS_Store
+Thumbs.db
+inbox/*.tmp
